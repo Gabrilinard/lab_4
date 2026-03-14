@@ -1,8 +1,14 @@
 ---
 
+# Laboratório 04: Transformer "From Scratch"
+
+Este projeto implementa a arquitetura completa de um **Transformer (Encoder e Decoder)** utilizando **PyTorch**, desenvolvido para a disciplina de **Inteligência Artificial**.
+
+---
+
 # Instalação do Projeto
 
-## 1. Clonar o Repositório
+# Como Executar
 
 Primeiro, clone o repositório para sua máquina:
 
@@ -16,7 +22,11 @@ Depois entre na pasta do projeto:
 cd lab_4/transformer_lab04/transformer
 ```
 
----
+Instale as dependências:
+
+```bash
+pip install -r requirements.txt
+```
 
 # Estrutura do Projeto
 
