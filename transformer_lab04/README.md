@@ -19,7 +19,7 @@ git clone https://github.com/Gabrilinard/lab_4
 Depois entre na pasta do projeto:
 
 ```bash
-cd lab_4/transformer_lab04/transformer
+cd lab_4/transformer_lab04
 ```
 
 Instale as dependências:
